@@ -3,7 +3,7 @@
 - 🔭 Ainda não trabalho
 - 🌱 Aprendendo: Java/ Javascript
 - 📫 Contato: gabrielfasolim@hotmail.com
-- 📚 Linguagens: Pyton, Html, Css
+- 📚 Linguagens: Python, Html, Css
 
 <div align="center">
   <a href="https://github.com/GabrielFasolim">

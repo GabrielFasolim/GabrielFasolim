@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Gabriel Fasolim
 
 - 🔭 Open to work
-- 🌱 Aprendendo: Java/ Javascript
+- 🌱 Aprendendo: Java/ Javascript/ SQL
 - 📫 Contato: gabrielfasolim@hotmail.com
 - 📚 Linguagens: Python, Html, Css
 

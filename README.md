@@ -1,9 +1,9 @@
 ## Olá!! Eu sou o Gabriel Fasolim
 
 - 🔭 Open to work
-- 🌱 Aprendendo: Javascript/ SQL
-- 📫 Contato: gabrielfasolim@hotmail.com
-- 📚 Linguagens: Python, Html, Css
+- 🌱 Learning: Javascript/ SQL
+- 📫 gabrielfasolim@hotmail.com
+- 📚 Python, Html, Css
 
 <div align="center">
   <a href="https://github.com/GabrielFasolim">

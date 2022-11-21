@@ -1,7 +1,7 @@
 ## Hi!! I'am Gabriel Fasolim | Developer in JavaScript, HTML5, CSS3, PYTHON, SQL
 
 - 🔭 Open to work
-- 🌱 Learning: PHP
+- 🌱 Learning: Node, React
 - 📫 gabrielfasolim@hotmail.com
 - 📚 Python, Html, Css, Sql, JavaScript
 

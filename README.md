@@ -13,15 +13,11 @@
    </div>
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gabrielfasolim@gmail.com" target="_blank">
-      <img width="32" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/gabrielfasolim/" target="_blank">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/gabrielfasolim/" target="_blank">
-      <img width="25" src="instagram.png">
-    </a>
+    <div>
+      <a href="https://www.instagram.com/gabrielfasolim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:gabrielfasolim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/gabriel-lima-fasolim-154531235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </div>
 </div>
 
 

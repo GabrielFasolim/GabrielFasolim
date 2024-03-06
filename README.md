@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GabrielFasolim/GabrielFasolim/output/snake.svg" alt="Snake animation" />
-
-###

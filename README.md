@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Desenvolvendo há 3 anos<br>Atualmente estudando e trabalhando com .NET e VueJs</p>
+<p align="left">Developing for 3 years<br>Now studing and working with .NET and VueJs</p>
 
 ###
 

@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Developing for 3 years<br>Now studing and working with .NET and VueJs</p>
+<p align="left">Full Stack developer <br> Front-End(Vue, Angular, React)<br> Back-End(.NET)</p>
 
 ###
 

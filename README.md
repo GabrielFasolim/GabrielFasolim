@@ -64,9 +64,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielFasolim&show_icons=true&hide_title=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielFasolim&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=rose_pine&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFasolim&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=GabrielFasolim&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+### 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFasolim&theme=rose_pine&area=true" />
 </p>
 
 ---
@@ -74,7 +80,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFasolim&theme=onedark&no-frame=true&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFasolim&theme=rose_pine&no-frame=true&margin-w=5&margin-h=5" />
 </p>
 
 ---

@@ -5,7 +5,7 @@
 <h1 align="center">Gabriel Fasolim&nbsp;⚡</h1>
 
 <p align="center">
-  <em>Full‑Stack Developer • IoT Enthusiast • Award‑Winning Hackathoner</em>
+  <em>Full‑Stack Developer • IoT Enthusiast • Award‑Winning Creative experience</em>
 </p>
 
 <p align="center">
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.instagram.com/gabrielfasolim/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:gabrielfasolim@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=E‑mail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=GabrielFasolim&style=for-the-badge&color=blue" height="25" alt="profile views"/>
 </p>
@@ -27,7 +24,7 @@
 
 * 🏡 Originally from **Pato Branco‑PR**, now based in **Curitiba‑PR**
 * 🎓 Information Systems student at **PUCPR** & former Web Dev TA
-* 🏆 Popular‑vote winner @ **ICHILD (2023)** & **Agenda Hub (2024)** hackathons
+* 🏆 Popular‑vote winner @ **ICHILD (2023)** & **Agenda Hub (2024)** 
 * 💡 Lead front‑end dev on an **IoT Smart‑Lighting** platform @ Radioenge
 * 🛠️ Passionate about **Vue.js, C#, Clean Architecture & DDD**
 
@@ -66,32 +63,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielFasolim&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=rose_pine&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFasolim&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=GabrielFasolim&theme=rose_pine&hide_border=true" height="150"/>
-</p>
-
-### 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFasolim&theme=rose_pine&area=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielFasolim&theme=rose_pine&no-frame=true&margin-w=5&margin-h=5" />
-</p>
-
----
-
-### ✨ Highlights
+### ✨ Project Highlights
 
 * **Smart Lighting IoT** – Building a platform that reduces operational costs for public lighting systems.
 * **Agenda Hub** – A scheduling SaaS for freelancers with multi‑tier pricing (Tech: React, NestJS, Prisma, AWS).
 * **ICHILD** – Intelligent school transportation management (Tech: Flutter, Firebase, FastAPI).
-
-> *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
 
 ---
 
